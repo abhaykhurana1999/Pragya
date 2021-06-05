@@ -1,4 +1,4 @@
-Database Setup
+## Database Setup
 $ mysql -u root
 create database Pragya;
 
