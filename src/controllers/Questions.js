@@ -22,3 +22,5 @@ async function task()
 }
 
 task()*/
+
+module.exports={showAll,createNewQ}

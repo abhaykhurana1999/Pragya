@@ -22,3 +22,5 @@ async function showAllAnswers(query)
 }
 
 task()*/
+
+module.exports={showAllAnswers,createNewA}
